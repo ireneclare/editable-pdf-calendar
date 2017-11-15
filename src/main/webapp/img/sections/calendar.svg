@@ -1,0 +1,501 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="438" height="415" viewBox="0 0 438 415">
+    <defs>
+        <path id="a" d="M.638 0h437.293v411.284H.638z"/>
+        <path id="d" d="M0 0h287.567v372.146H0z"/>
+        <filter id="c" width="121.9%" height="116.9%" x="-8.9%" y="-6.9%" filterUnits="objectBoundingBox">
+            <feOffset dx="6" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9.5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.112064085 0"/>
+        </filter>
+        <linearGradient id="e" x1="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#0096D0"/>
+            <stop offset="100%" stop-color="#00C4C0"/>
+        </linearGradient>
+        <path id="f" d="M0 0h35.241v35.241H0z"/>
+        <path id="g" d="M0 .023h35.241v35.241H0z"/>
+        <path id="h" d="M.117.023h35.241v35.241H.117z"/>
+        <path id="i" d="M0 .023h35.241v35.241H0z"/>
+        <path id="j" d="M.352.023h35.241v35.241H.352z"/>
+        <path id="k" d="M.235.023h35.241v35.241H.235z"/>
+        <path id="l" d="M0 .376h35.241v35.241H0z"/>
+        <path id="m" d="M.352.376h35.241v35.241H.352z"/>
+        <path id="n" d="M.235.376h35.241v35.241H.235z"/>
+        <path id="o" d="M.117.376h35.241v35.241H.117z"/>
+        <path id="p" d="M0 .376h35.241v35.241H0z"/>
+        <path id="q" d="M.352.376h35.241v35.241H.352z"/>
+        <path id="r" d="M.235.376h35.241v35.241H.235z"/>
+        <path id="s" d="M0 .258h35.241v35.241H0z"/>
+        <path id="t" d="M.352.258h35.241v35.241H.352z"/>
+        <path id="u" d="M.235.258h35.241v35.241H.235z"/>
+        <path id="v" d="M.117.258h35.241v35.241H.117z"/>
+        <path id="w" d="M0 .258h35.241v35.241H0z"/>
+        <path id="x" d="M.352.258h35.241v35.241H.352z"/>
+        <path id="y" d="M.235.258h35.241v35.241H.235z"/>
+        <path id="z" d="M0 .141h35.241v35.241H0z"/>
+        <path id="A" d="M.352.141h35.241v35.241H.352z"/>
+        <path id="B" d="M.235.141h35.241v35.241H.235z"/>
+        <path id="C" d="M.117.141h35.241v35.241H.117z"/>
+        <path id="D" d="M0 .141h35.241v35.241H0z"/>
+        <path id="E" d="M.352.141h35.241v35.241H.352z"/>
+        <path id="F" d="M.235.141h35.241v35.241H.235z"/>
+        <path id="G" d="M0 .023h35.241v35.241H0z"/>
+        <path id="H" d="M.352.023h35.241v35.241H.352z"/>
+        <path id="I" d="M.235.023h35.241v35.241H.235z"/>
+        <path id="J" d="M.117.023h35.241v35.241H.117z"/>
+        <path id="L" d="M0 0h287.567v372.146H0z"/>
+        <filter id="K" width="121.9%" height="116.9%" x="-8.9%" y="-6.9%" filterUnits="objectBoundingBox">
+            <feOffset dx="6" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9.5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.112064085 0"/>
+        </filter>
+        <path id="M" d="M0 0h35.241v35.241H0z"/>
+        <path id="N" d="M0 4.446h35.241v35.241H0z"/>
+        <path id="O" d="M0 .376h35.241v35.241H0z"/>
+        <path id="P" d="M.352.376h35.241v35.241H.352z"/>
+        <path id="Q" d="M.235 4.798h35.241v35.241H.235z"/>
+        <path id="R" d="M0 .258h35.241v35.241H0z"/>
+        <path id="S" d="M.352.258h35.241v35.241H.352z"/>
+        <path id="T" d="M.235 4.681h35.241v35.241H.235z"/>
+        <path id="U" d="M0 .141h35.241v35.241H0z"/>
+        <path id="V" d="M.352.141h35.241v35.241H.352z"/>
+        <path id="W" d="M.235 4.563h35.241v35.241H.235z"/>
+        <path id="X" d="M0 .023h35.241v35.241H0z"/>
+        <path id="Y" d="M.352.023h35.241v35.241H.352z"/>
+        <path id="Z" d="M.235 4.446h35.241v35.241H.235z"/>
+        <linearGradient id="ab" x1="100%" x2="85.732%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </linearGradient>
+        <path id="aa" d="M.672-2.211h437.293v411.284H.672z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 3)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <g mask="url(#b)">
+            <g transform="translate(.672 13.267)">
+                <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+                <use fill="#FFF" xlink:href="#d"/>
+                <path stroke="#E3E3E3" stroke-width="1.311" d="M.656.656h286.256v370.835H.656z"/>
+            </g>
+            <text fill="url(#e)" font-family="Lato-Semibold, Lato" font-size="63.434" font-weight="500" letter-spacing="1.41" transform="translate(23.391 35.352)">
+                <tspan x="0" y="63">Jan</tspan>
+            </text>
+            <text fill="#00B8D5" font-family="Futura-Medium, Futura" font-size="6.578" font-weight="400" letter-spacing=".658" transform="translate(23.391 35.352)">
+                <tspan x="75.131" y="74.193">2018</tspan>
+            </text>
+            <g transform="translate(57.058 152.352)">
+                <use fill="#FFF" xlink:href="#f"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.47h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(57.058 152.352)">
+                <tspan x="23.587" y="8.455">01</tspan>
+            </text>
+            <g transform="translate(91.83 152.329)">
+                <use fill="#FFF" xlink:href="#g"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.493h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(91.83 152.329)">
+                <tspan x="23.587" y="8.479">02</tspan>
+            </text>
+            <g transform="translate(126.483 152.329)">
+                <use fill="#FFF" xlink:href="#h"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.587.493h34.301v34.301H.587z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(126.483 152.329)">
+                <tspan x="23.587" y="8.479">03</tspan>
+            </text>
+            <g transform="translate(161.372 152.329)">
+                <use fill="#FFF" xlink:href="#i"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.493h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(161.372 152.329)">
+                <tspan x="23.587" y="8.479">04</tspan>
+            </text>
+            <g transform="translate(195.79 152.329)">
+                <use fill="#FFF" xlink:href="#j"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.822.493h34.301v34.301H.822z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(195.79 152.329)">
+                <tspan x="23.587" y="8.479">05</tspan>
+            </text>
+            <g transform="translate(230.68 152.329)">
+                <use fill="#FFF" xlink:href="#k"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.705.493h34.301v34.301H.705z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(230.68 152.329)">
+                <tspan x="23.587" y="8.479">06</tspan>
+            </text>
+            <g transform="translate(22.287 186.747)">
+                <use fill="#FFF" xlink:href="#l"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.846h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(22.287 186.747)">
+                <tspan x="23.587" y="8.831">07</tspan>
+            </text>
+            <g transform="translate(56.706 186.747)">
+                <use fill="#FFF" xlink:href="#m"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.822.846h34.301v34.301H.822z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(56.706 186.747)">
+                <tspan x="23.587" y="8.831">08</tspan>
+            </text>
+            <g transform="translate(91.594 186.747)">
+                <use fill="#FFF" xlink:href="#n"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.705.846h34.301v34.301H.705z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(91.594 186.747)">
+                <tspan x="23.587" y="8.831">09</tspan>
+            </text>
+            <g transform="translate(126.483 186.747)">
+                <use fill="#FFF" xlink:href="#o"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.587.846h34.301v34.301H.587z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(126.483 186.747)">
+                <tspan x="23.587" y="8.831">10</tspan>
+            </text>
+            <g transform="translate(161.372 186.747)">
+                <use fill="#FFF" xlink:href="#p"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.846h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(161.372 186.747)">
+                <tspan x="23.587" y="8.831">11</tspan>
+            </text>
+            <g transform="translate(195.79 186.747)">
+                <use fill="#FFF" xlink:href="#q"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.822.846h34.301v34.301H.822z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(195.79 186.747)">
+                <tspan x="23.587" y="8.831">12</tspan>
+            </text>
+            <g transform="translate(230.68 186.747)">
+                <use fill="#FFF" xlink:href="#r"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.705.846h34.301v34.301H.705z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(230.68 186.747)">
+                <tspan x="23.587" y="8.831">13</tspan>
+            </text>
+            <g transform="translate(22.287 221.636)">
+                <use fill="#FFF" xlink:href="#s"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.728h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(22.287 221.636)">
+                <tspan x="23.587" y="8.713">14</tspan>
+            </text>
+            <g transform="translate(56.706 221.636)">
+                <use fill="#FFF" xlink:href="#t"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.822.728h34.301v34.301H.822z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(56.706 221.636)">
+                <tspan x="23.587" y="8.713">15</tspan>
+            </text>
+            <g transform="translate(91.594 221.636)">
+                <use fill="#FFF" xlink:href="#u"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.705.728h34.301v34.301H.705z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(91.594 221.636)">
+                <tspan x="23.587" y="8.713">16</tspan>
+            </text>
+            <g>
+                <g transform="translate(126.483 221.636)">
+                    <use fill="#FFF" xlink:href="#v"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.587.728h34.301v34.301H.587z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(126.483 221.636)">
+                    <tspan x="23.587" y="8.713">17</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(161.372 221.636)">
+                    <use fill="#FFF" xlink:href="#w"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.47.728h34.301v34.301H.47z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(161.372 221.636)">
+                    <tspan x="23.587" y="8.713">18</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(195.79 221.636)">
+                    <use fill="#FFF" xlink:href="#x"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.822.728h34.301v34.301H.822z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(195.79 221.636)">
+                    <tspan x="23.587" y="8.713">19</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(230.68 221.636)">
+                    <use fill="#FFF" xlink:href="#y"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.705.728h34.301v34.301H.705z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(230.68 221.636)">
+                    <tspan x="23.587" y="8.713">20</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(22.287 256.525)">
+                    <use fill="#FFF" xlink:href="#z"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.47.611h34.301v34.301H.47z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(22.287 256.525)">
+                    <tspan x="23.587" y="8.596">21</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(56.706 256.525)">
+                    <use fill="#FFF" xlink:href="#A"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.822.611h34.301v34.301H.822z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(56.706 256.525)">
+                    <tspan x="23.587" y="8.596">22</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(91.594 256.525)">
+                    <use fill="#FFF" xlink:href="#B"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.705.611h34.301v34.301H.705z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(91.594 256.525)">
+                    <tspan x="23.587" y="8.596">23</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(126.483 256.525)">
+                    <use fill="#FFF" xlink:href="#C"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.587.611h34.301v34.301H.587z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(126.483 256.525)">
+                    <tspan x="23.587" y="8.596">24</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(161.372 256.525)">
+                    <use fill="#FFF" xlink:href="#D"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.47.611h34.301v34.301H.47z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(161.372 256.525)">
+                    <tspan x="23.587" y="8.596">25</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(195.79 256.525)">
+                    <use fill="#FFF" xlink:href="#E"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.822.611h34.301v34.301H.822z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(195.79 256.525)">
+                    <tspan x="23.587" y="8.596">26</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(230.68 256.525)">
+                    <use fill="#FFF" xlink:href="#F"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.705.611h34.301v34.301H.705z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(230.68 256.525)">
+                    <tspan x="23.587" y="8.596">27</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(22.287 291.414)">
+                    <use fill="#FFF" xlink:href="#G"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.47.493h34.301v34.301H.47z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(22.287 291.414)">
+                    <tspan x="23.587" y="8.479">28</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(56.706 291.414)">
+                    <use fill="#FFF" xlink:href="#H"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.822.493h34.301v34.301H.822z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(56.706 291.414)">
+                    <tspan x="23.587" y="8.479">29</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(91.594 291.414)">
+                    <use fill="#FFF" xlink:href="#I"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.705.493h34.301v34.301H.705z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(91.594 291.414)">
+                    <tspan x="23.587" y="8.479">30</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(126.483 291.414)">
+                    <use fill="#FFF" xlink:href="#J"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.587.493h34.301v34.301H.587z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(126.483 291.414)">
+                    <tspan x="23.587" y="8.479">31</tspan>
+                </text>
+            </g>
+            <path fill="url(#e)" d="M21.615 120.031h243.868v12.687H21.615z" transform="translate(.672 13.267)"/>
+            <g fill="#FFF" font-family="Lato-Semibold, Lato" font-size="4.699" font-weight="500">
+                <text transform="translate(32.988 136.94)">
+                    <tspan x="70.021" y="5">TUE</tspan>
+                </text>
+                <text transform="translate(32.988 136.94)">
+                    <tspan x="102.817" y="5">WED</tspan>
+                </text>
+                <text transform="translate(32.988 136.94)">
+                    <tspan x="139.121" y="5">THU</tspan>
+                </text>
+                <text transform="translate(32.988 136.94)">
+                    <tspan x="175.003" y="5">FRI</tspan>
+                </text>
+                <text transform="translate(32.988 136.94)">
+                    <tspan x="209.413" y="5">SAT</tspan>
+                </text>
+                <text transform="translate(32.988 136.94)">
+                    <tspan x="34.211" y="5">MON</tspan>
+                </text>
+                <text transform="translate(32.988 136.94)">
+                    <tspan x=".356" y="5">SUN</tspan>
+                </text>
+            </g>
+            <path fill="url(#e)" d="M21.615 320.459h243.868v12.687H21.615z" transform="translate(.672 13.267)"/>
+            <g fill="#FFF">
+                <path d="M42.022 341.137c.018.313.148.565.39.758.243.193.552.29.927.29.396 0 .712-.097.948-.29a.943.943 0 0 0 .353-.769c0-.254-.08-.456-.242-.608-.162-.151-.423-.273-.783-.363l-.388-.101c-.264-.07-.455-.153-.574-.252a.474.474 0 0 1-.178-.382c0-.2.082-.364.246-.491a.983.983 0 0 1 .62-.19c.256 0 .466.062.63.187.164.126.255.291.271.496h.341a.926.926 0 0 0-.362-.715c-.232-.188-.521-.282-.87-.282-.353 0-.647.094-.88.283a.89.89 0 0 0-.35.725c0 .459.32.771.961.936l.446.116c.267.068.461.155.582.263a.532.532 0 0 1 .182.416.615.615 0 0 1-.26.507c-.174.133-.395.2-.664.2-.28 0-.513-.068-.698-.203a.715.715 0 0 1-.307-.531h-.341zm4.171-1.465a.777.777 0 0 0-.593.249c-.155.166-.24.384-.255.655h1.667c-.003-.27-.08-.487-.23-.654a.755.755 0 0 0-.589-.25zm.802 1.684h.326a.874.874 0 0 1-.361.575c-.202.15-.45.225-.742.225-.37 0-.665-.123-.885-.37-.22-.248-.33-.585-.33-1.013 0-.422.11-.76.328-1.015.218-.254.507-.381.867-.381.354 0 .635.12.844.358.21.24.314.562.314.967v.147h-2.011v.017c0 .308.08.551.241.729a.822.822 0 0 0 .64.266c.2 0 .369-.047.505-.14a.63.63 0 0 0 .264-.365zm.963-2.6v.651h-.383v.28h.383v1.77c0 .246.048.421.144.527.097.105.256.157.478.157.035 0 .08-.001.137-.005a.668.668 0 0 0 .112-.012v-.286a2.184 2.184 0 0 1-.184.01c-.124 0-.215-.031-.273-.095-.057-.064-.085-.167-.085-.308v-1.758h.53v-.28h-.53v-.651h-.329zm1.344 3.37h.329v-1.658c0-.234.064-.425.192-.572a.624.624 0 0 1 .492-.221c.183 0 .331.06.447.178a.647.647 0 0 1 .173.47v1.803h.328v-1.699a.78.78 0 0 1 .19-.541c.126-.14.289-.211.49-.211.196 0 .349.06.459.182.11.12.166.287.166.5v1.77h.33v-1.846c0-.276-.079-.496-.237-.66-.159-.162-.368-.244-.629-.244a.89.89 0 0 0-.849.57h-.007a.781.781 0 0 0-.279-.414.79.79 0 0 0-.495-.156.797.797 0 0 0-.782.538h-.01v-.508h-.308v2.72zm5.257.03c-.369 0-.664-.125-.885-.377-.222-.252-.332-.59-.332-1.014 0-.424.11-.761.333-1.012.222-.25.517-.376.884-.376.368 0 .663.125.886.376.222.25.333.588.333 1.012 0 .425-.11.762-.333 1.014-.223.252-.518.377-.886.377zm0-.3c.273 0 .49-.097.647-.292.157-.194.236-.46.236-.799 0-.34-.079-.606-.236-.8-.158-.193-.374-.29-.647-.29a.786.786 0 0 0-.645.291c-.158.195-.236.461-.236.8 0 .34.079.606.237.8.159.193.373.29.644.29zm1.677.27h.329v-1.686c0-.219.056-.397.169-.535a.558.558 0 0 1 .455-.207.94.94 0 0 1 .154.01c.045.009.079.017.1.027v-.33a.776.776 0 0 0-.21-.028.702.702 0 0 0-.43.135.68.68 0 0 0-.248.377h-.01v-.482h-.309v2.72zm2.48-2.454a.777.777 0 0 0-.594.249c-.156.166-.24.384-.256.655h1.668c-.003-.27-.08-.487-.23-.654a.755.755 0 0 0-.589-.25zm.8 1.684h.327a.874.874 0 0 1-.361.575c-.203.15-.45.225-.742.225-.37 0-.665-.123-.885-.37-.22-.248-.33-.585-.33-1.013 0-.422.11-.76.328-1.015.218-.254.507-.381.867-.381.354 0 .635.12.844.358.209.24.313.562.313.967v.147h-2.01v.017c0 .308.08.551.24.729a.822.822 0 0 0 .64.266c.201 0 .37-.047.506-.14a.63.63 0 0 0 .264-.365zM34.052 341.323h1.722v1.664h-1.722zM38.358 341.323h1.723v1.664h-1.723zM38.358 337.161h1.723v3.746h-1.723zM36.205 339.242h1.723v3.745h-1.723z"/>
+                <path d="M34.052 339.242h1.722v1.665h-1.722zM36.205 337.161h1.723v1.665h-1.723zM34.052 337.161h1.722v1.665h-1.722z" opacity=".246"/>
+            </g>
+            <g>
+                <path fill="#EDEDED" d="M144.456 73.506H263v1H144.456zM144.456 82.34H263v1H144.456zM144.456 91.737H263v1H144.456zM144.456 100.665H263v1H144.456z"/>
+                <text fill="#536E7A" font-family="Lato-Regular, Lato" font-size="3.759" transform="translate(144.456 64.954)">
+                    <tspan x="0" y="4">I could possibly type some thing here in context with the data in the</tspan> <tspan x="0" y="13.398">that i have filled in the date boxes below describing my goals, plans, or</tspan> <tspan x="0" y="22.795">the intention with which this was calendar was printed in the first place.</tspan> <tspan x="0" y="32.193">This text is just a place holder for relevant content.</tspan>
+                </text>
+            </g>
+            <text font-family="Lato-Regular, Lato" font-size="4.699" transform="translate(.672 13.267)">
+                <tspan x="143.784" y="45.88" fill="#555">Notes</tspan>
+            </text>
+        </g>
+        <g mask="url(#b)">
+            <g transform="translate(332.353 13.267)">
+                <use fill="#000" filter="url(#K)" xlink:href="#L"/>
+                <use fill="#FFF" xlink:href="#L"/>
+                <path stroke="#E3E3E3" stroke-width="1.311" d="M.656.656h286.256v370.835H.656z"/>
+            </g>
+            <text fill="url(#e)" font-family="Lato-Semibold, Lato" font-size="63.434" font-weight="500" letter-spacing="1.41" transform="translate(355.072 35.352)">
+                <tspan x="0" y="63">Feb</tspan>
+            </text>
+            <text fill="#00B8D5" font-family="Futura-Medium, Futura" font-size="6.578" font-weight="400" letter-spacing=".658" transform="translate(355.072 35.352)">
+                <tspan x="75.131" y="74.193">2018</tspan>
+            </text>
+            <g transform="translate(388.74 152.352)">
+                <use fill="#FFF" xlink:href="#M"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.47h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(388.74 152.352)">
+                <tspan x="23.587" y="8.317">01</tspan>
+            </text>
+            <g transform="translate(423.51 147.906)">
+                <use fill="#FFF" xlink:href="#N"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47 4.916h34.301v34.301H.47z"/>
+            </g>
+            <g transform="translate(353.968 186.747)">
+                <use fill="#FFF" xlink:href="#O"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.846h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(353.968 186.747)">
+                <tspan x="23.587" y="8.831">07</tspan>
+            </text>
+            <g transform="translate(388.387 186.747)">
+                <use fill="#FFF" xlink:href="#P"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.822.846h34.301v34.301H.822z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(388.387 186.747)">
+                <tspan x="23.587" y="8.317">08</tspan>
+            </text>
+            <g transform="translate(423.276 182.325)">
+                <use fill="#FFF" xlink:href="#Q"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.705 5.268h34.301v34.301H.705z"/>
+            </g>
+            <g transform="translate(353.968 221.636)">
+                <use fill="#FFF" xlink:href="#R"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.728h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(353.968 221.636)">
+                <tspan x="23.587" y="8.713">14</tspan>
+            </text>
+            <g transform="translate(388.387 221.636)">
+                <use fill="#FFF" xlink:href="#S"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.822.728h34.301v34.301H.822z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(388.387 221.636)">
+                <tspan x="23.587" y="8.317">15</tspan>
+            </text>
+            <g transform="translate(423.276 217.214)">
+                <use fill="#FFF" xlink:href="#T"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.705 5.151h34.301v34.301H.705z"/>
+            </g>
+            <g transform="translate(353.968 256.525)">
+                <use fill="#FFF" xlink:href="#U"/>
+                <path stroke="#C4C4C4" stroke-width=".94" d="M.47.611h34.301v34.301H.47z"/>
+            </g>
+            <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(353.968 256.525)">
+                <tspan x="23.587" y="8.596">21</tspan>
+            </text>
+            <g>
+                <g transform="translate(388.387 256.525)">
+                    <use fill="#FFF" xlink:href="#V"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.822.611h34.301v34.301H.822z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(388.387 256.525)">
+                    <tspan x="23.587" y="8.317">22</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(423.276 252.102)">
+                    <use fill="#FFF" xlink:href="#W"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.705 5.033h34.301v34.301H.705z"/>
+                </g>
+            </g>
+            <g>
+                <g transform="translate(353.968 291.414)">
+                    <use fill="#FFF" xlink:href="#X"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.47.493h34.301v34.301H.47z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(353.968 291.414)">
+                    <tspan x="23.587" y="8.479">28</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(388.387 291.414)">
+                    <use fill="#FFF" xlink:href="#Y"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.822.493h34.301v34.301H.822z"/>
+                </g>
+                <text fill="#536E7A" font-family="Lato-Semibold, Lato" font-size="5.528" font-weight="500" transform="translate(388.387 291.414)">
+                    <tspan x="23.587" y="8.317">29</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(423.276 286.991)">
+                    <use fill="#FFF" xlink:href="#Z"/>
+                    <path stroke="#C4C4C4" stroke-width=".94" d="M.705 4.916h34.301v34.301H.705z"/>
+                </g>
+            </g>
+            <path fill="url(#e)" d="M21.615 120.031h243.868v12.687H21.615z" transform="translate(332.353 13.267)"/>
+            <g fill="#FFF" font-family="Lato-Semibold, Lato" font-size="4.699" font-weight="500">
+                <text transform="translate(364.67 136.94)">
+                    <tspan x="70.021" y="5">TUE</tspan>
+                </text>
+                <text transform="translate(364.67 136.94)">
+                    <tspan x="34.211" y="5">MON</tspan>
+                </text>
+                <text transform="translate(364.67 136.94)">
+                    <tspan x=".356" y="5">SUN</tspan>
+                </text>
+            </g>
+            <path fill="url(#e)" d="M21.615 320.459h243.868v12.687H21.615z" transform="translate(332.353 13.267)"/>
+            <g fill="#FFF">
+                <path d="M373.703 341.137c.018.313.149.565.39.758.243.193.552.29.927.29.396 0 .712-.097.948-.29a.943.943 0 0 0 .353-.769c0-.254-.08-.456-.242-.608-.162-.151-.423-.273-.783-.363l-.388-.101c-.264-.07-.455-.153-.574-.252a.474.474 0 0 1-.178-.382c0-.2.082-.364.246-.491a.983.983 0 0 1 .62-.19c.256 0 .466.062.63.187.164.126.255.291.271.496h.341a.926.926 0 0 0-.362-.715c-.231-.188-.521-.282-.87-.282-.353 0-.647.094-.88.283a.89.89 0 0 0-.35.725c0 .459.32.771.961.936l.446.116c.267.068.461.155.582.263a.532.532 0 0 1 .182.416.615.615 0 0 1-.26.507c-.174.133-.395.2-.663.2-.28 0-.514-.068-.699-.203a.715.715 0 0 1-.307-.531h-.341zm4.171-1.465a.777.777 0 0 0-.593.249c-.155.166-.24.384-.255.655h1.667c-.003-.27-.08-.487-.23-.654a.755.755 0 0 0-.589-.25zm.802 1.684h.326a.874.874 0 0 1-.361.575c-.202.15-.45.225-.742.225-.37 0-.665-.123-.884-.37-.22-.248-.33-.585-.33-1.013 0-.422.109-.76.327-1.015.218-.254.507-.381.867-.381.354 0 .635.12.844.358.21.24.314.562.314.967v.147h-2.011v.017c0 .308.08.551.241.729a.822.822 0 0 0 .64.266c.2 0 .369-.047.505-.14a.63.63 0 0 0 .264-.365zm.963-2.6v.651h-.383v.28h.383v1.77c0 .246.048.421.144.527.097.105.256.157.478.157.035 0 .08-.001.137-.005a.668.668 0 0 0 .112-.012v-.286a2.184 2.184 0 0 1-.184.01c-.124 0-.215-.031-.273-.095-.057-.064-.085-.167-.085-.308v-1.758h.53v-.28h-.53v-.651h-.329zm1.344 3.37h.329v-1.658c0-.234.064-.425.193-.572a.624.624 0 0 1 .491-.221c.183 0 .332.06.447.178a.647.647 0 0 1 .173.47v1.803h.328v-1.699a.78.78 0 0 1 .19-.541c.126-.14.29-.211.49-.211.196 0 .349.06.459.182.11.12.166.287.166.5v1.77h.33v-1.846c0-.276-.079-.496-.237-.66-.159-.162-.368-.244-.629-.244a.89.89 0 0 0-.849.57h-.007a.781.781 0 0 0-.279-.414.79.79 0 0 0-.495-.156.797.797 0 0 0-.782.538h-.01v-.508h-.308v2.72zm5.257.03c-.369 0-.664-.125-.885-.377-.222-.252-.332-.59-.332-1.014 0-.424.11-.761.333-1.012.222-.25.517-.376.884-.376.368 0 .663.125.886.376.222.25.333.588.333 1.012 0 .425-.11.762-.333 1.014-.223.252-.518.377-.886.377zm0-.3c.273 0 .49-.097.647-.292.157-.194.236-.46.236-.799 0-.34-.079-.606-.236-.8-.158-.193-.374-.29-.647-.29a.786.786 0 0 0-.645.291c-.158.195-.236.461-.236.8 0 .34.079.606.237.8.159.193.373.29.644.29zm1.677.27h.329v-1.686c0-.219.056-.397.169-.535a.558.558 0 0 1 .455-.207.94.94 0 0 1 .154.01c.045.009.079.017.1.027v-.33a.776.776 0 0 0-.21-.028.702.702 0 0 0-.43.135.68.68 0 0 0-.248.377h-.01v-.482h-.309v2.72zm2.48-2.454a.777.777 0 0 0-.594.249c-.156.166-.24.384-.256.655h1.668c-.003-.27-.08-.487-.23-.654a.755.755 0 0 0-.589-.25zm.8 1.684h.327a.874.874 0 0 1-.361.575c-.203.15-.45.225-.742.225-.37 0-.665-.123-.885-.37-.22-.248-.33-.585-.33-1.013 0-.422.11-.76.328-1.015.218-.254.507-.381.867-.381.354 0 .635.12.844.358.209.24.314.562.314.967v.147h-2.012v.017c0 .308.08.551.242.729a.822.822 0 0 0 .64.266c.2 0 .369-.047.505-.14a.63.63 0 0 0 .264-.365zM365.733 341.323h1.722v1.664h-1.722zM370.04 341.323h1.722v1.664h-1.723zM370.04 337.161h1.722v3.746h-1.723zM367.886 339.242h1.723v3.745h-1.723z"/>
+                <path d="M365.733 339.242h1.722v1.665h-1.722zM367.886 337.161h1.723v1.665h-1.723zM365.733 337.161h1.722v1.665h-1.722z" opacity=".246"/>
+            </g>
+        </g>
+        <use fill="url(#ab)" xlink:href="#aa"/>
+    </g>
+</svg>
