@@ -71,7 +71,7 @@ public class PdfCalendar {
 //    	prop 											= 	System.getProperties();
     	String home 									=	System.getProperty("user.home");
     	Locale locale 									= 	new Locale(LANGUAGE);
-    	File file 										= 	new File("/"+fileName);
+    	File file 										= 	new File(home+"/Downloads/"+fileName);
 
 //    	File file = null;
 //    	String resource = this.getClass().getClassLoader().getResource("calendar.pdf").getPath();
